@@ -1,0 +1,11 @@
+pytubefix
+moviepy
+srt
+faster-whisper
+gradio
+ffmpeg-python
+arabic-reshaper
+python-bidi
+pysrt
+instaloader
+Balethon
